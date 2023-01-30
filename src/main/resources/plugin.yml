@@ -1,0 +1,7 @@
+name: UmbrellaAuction
+version: '${project.version}'
+main: ru.umbrellaauction.Main
+description: Auction
+commands:
+  auction:
+    aliases: ah

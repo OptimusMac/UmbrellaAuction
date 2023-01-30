@@ -1,0 +1,10 @@
+max-loot: 3
+time-auction: 24 #in hour
+really-items:
+  - 'Трапка'
+database:
+  host: localhost
+  port: 3306
+  database: mysql
+  user: root
+  password: 123
